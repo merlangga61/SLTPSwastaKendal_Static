@@ -1,0 +1,1 @@
+"# SLTPSwastaKendal_Static" 
